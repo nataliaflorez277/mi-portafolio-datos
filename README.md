@@ -1,4 +1,4 @@
-# Hola, soy Natalia 👋
+# Hola, soy Natalia 
 
 Soy estudiante de Ingeniería Informática y actualmente me estoy formando en Análisis de Datos.
 
